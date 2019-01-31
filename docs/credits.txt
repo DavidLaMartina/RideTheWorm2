@@ -1,0 +1,2 @@
+Hexagonal Grid Representation:
+https://www.redblobgames.com/grids/hexagons/
